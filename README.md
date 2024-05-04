@@ -30,5 +30,4 @@ Great experience!  It gives a lot of skills to learn while making an project.
 
 Make a change in your file and instantaneously see your updates!
 
- ![Screenshot]("../images/screenshot.png")
-    ![](<Screenshot 2024-05-04 130748.png>)
+("../images/screenshot.png")
