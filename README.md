@@ -1,22 +1,21 @@
-EMPLOYEE MANAGEMENT SYSTEM 
-
-PREREQISITE:
+**EMPLOYEE MANAGEMENT SYSTEM**
+**PREREQISITE:**
 
     Python
     MySQL
 
-    Features:
+ Features:
 
     Pull or download the zip file of the project.
     Set image path according to your system.
 
-    On Command Prompt or Terminal Run Following cOmmands:
+    **On Command Prompt or Terminal Run Following cOmmands:**
 
     pip install mysql-connector-python
     pip install ttk
     pip install pillow
 
-    Tech:
+  Tech:
     
     Employee management system uses a number of open source projects to work properly:
 
