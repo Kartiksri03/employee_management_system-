@@ -1,7 +1,7 @@
 **EMPLOYEE MANAGEMENT SYSTEM**
 
 **PREREQISITE:**
-
+   
     Python
     MySQL
 
@@ -10,7 +10,7 @@
     Pull or download the zip file of the project.
     Set image path according to your system.
 
-    **On Command Prompt or Terminal Run Following cOmmands:**
+    On Command Prompt or Terminal Run Following cOmmands:
 
     pip install mysql-connector-python
     pip install ttk
